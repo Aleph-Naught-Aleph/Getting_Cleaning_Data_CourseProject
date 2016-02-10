@@ -1,4 +1,4 @@
-## CodeBook (Affectionately Known as Data Dictionary)
+## CodeBook (Also Known as Data Dictionary)
 __________________________________________________________
 
 Project Name:................ Getting and Cleaning Data 
