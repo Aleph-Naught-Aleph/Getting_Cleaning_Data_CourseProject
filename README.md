@@ -23,7 +23,7 @@ The R language script (run_analysis.R) uploaded in this repository performs the 
 7. A tidy dataset consisting of the arithmatic mean of each
    variable for each subject and activity pair is created with appropriate labels describing the activity names.
 
-The final data set resulting from this transformation is provided in the file `tidyData.txt`.
+The final data set resulting from this transformation is provided in the file `tidyDataKS.txt`.
 
 ### Word of Caution
 To run the R script successfully, one has to change the path in the program file, where the raw untidy data set is residing on your computer. Secondly, use NotePad++ to read tidyData.txt file.
