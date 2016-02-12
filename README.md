@@ -26,7 +26,7 @@ The R language script (run_analysis.R) uploaded in this repository performs the 
 The final data set resulting from this transformation is provided in the file `tidyDataKS.txt`.
 
 ### Word of Caution
-To run the R script successfully, one has to change the path in the program file, where the raw untidy data set is residing on your computer. Secondly, use NotePad++ to read tidyData.txt file.
+To run the R script successfully, one has to change the path in the program file, where the raw untidy data set is residing on your computer. Secondly, use NotePad++ to read tidyDataKS.txt file.
 
 ### Data Dictionary
 For detailed information on the variables please consult the data dictionary provided in CodeBook.MD file.
